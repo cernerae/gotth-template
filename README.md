@@ -1,2 +1,2 @@
 # gotth-template
-GoTTH Stack Template (Go, Templ, HTMX)
+GoTTH Stack Template (Go, Tailwind, Templ, HTMX)
